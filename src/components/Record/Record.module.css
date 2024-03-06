@@ -1,0 +1,18 @@
+.recordItem {
+    align-items: center;
+    margin: 1rem auto;
+    padding: 1.3rem;
+    background-color: #EEE5E9;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.checkbox {
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

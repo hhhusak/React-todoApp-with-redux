@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #2182a3;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 7.5px 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0 200px;
+    padding: 0;
+    height: 3rem;
+}

@@ -1,0 +1,10 @@
+.recordsContainer {
+    list-style: none;
+    overflow: hidden;
+    width: 40vw;
+    max-width: 90%;
+    margin: 1rem auto;
+    padding: 0;
+    max-height: 50vh;
+    overflow: scroll;
+}
